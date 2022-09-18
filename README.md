@@ -1,2 +1,2 @@
-# mono
-Monorepo DAG of git submodules
+# template
+lowops.dev supermodules template repo.

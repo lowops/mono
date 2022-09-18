@@ -1,0 +1,3 @@
+[submodule "supermodules/github.com/lowops/supermodules"]
+	path = supermodules/github.com/lowops/supermodules
+	url = git@github.com:lowops/supermodules.git
